@@ -22,10 +22,11 @@ body {
 .qr-image {
     max-width: 100%;
     border-radius: 30px;
-    padding: 18px;
+    padding: 13px;  
 }
 
 h1 {
+    padding-top: 7px;
     font-weight: 700px;
     font-size: 22px;
     text-align: center;
