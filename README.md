@@ -25,7 +25,7 @@ This is my solution for the qr code challenge from the frontendmentor
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://abhinaynegi.github.io/frontend-qr-code-challenge/)
+- Live Site URL: [QR Code page](https://abhinaynegi.github.io/frontend-qr-code-challenge/)
 
 ## My process
 
