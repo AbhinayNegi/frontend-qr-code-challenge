@@ -20,7 +20,7 @@ This is my solution for the qr code challenge from the frontendmentor
 
 ### Screenshot
 
-![](.screenshot/screenshot.jpg)
+![](.screenshot/screenshot.png)
 
 ### Links
 
